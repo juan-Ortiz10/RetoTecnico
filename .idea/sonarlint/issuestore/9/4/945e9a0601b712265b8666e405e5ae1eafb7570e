@@ -1,47 +1,0 @@
-
-q
-java:S1192"[Define a constant instead of duplicating this literal "select the type of meeting" 3 times.(‚—©Ω
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ß’Ì¥¯ˇˇˇˇ
-W
-java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(ﬁ∆∆∂˛ˇˇˇˇ
-R
-java:S3252
-"<Use static access with "org.openqa.selenium.By" for "xpath".(Ì≥üä
-Q
-java:S3252";Use static access with "org.openqa.selenium.By" for "name".(≥˜‹ﬂ
-R
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(‚—©Ω
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(˝…ÿù˛ˇˇˇˇ
-T
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(àÊ»—˘ˇˇˇˇ
-N
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(ÉØÄ%
-R
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(∏•ÄÇ
-N
-java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(Ò™ú
-
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¥èË”˘ˇˇˇˇ
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ﬂÉ±ƒ˙ˇˇˇˇ
-R
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(“˘“–
-Q
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(˛≤◊
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Ôñøˇ¸ˇˇˇˇ
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(˜ìÃ¯ˇˇˇˇ
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".( ŸÏ„˛ˇˇˇˇ
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(µ‹“Ô¯ˇˇˇˇ
-R
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ôÊ Ï
-W
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(´í ç˛ˇˇˇˇ
-Y
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(êóâÁ8Ëæ‚Óå0
