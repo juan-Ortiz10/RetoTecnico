@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="As user, I want to login in the Star Sharp page so I can create meetings to do the sprint ceremonies" skipped="0" tests="2" time="32.63" timestamp="2022-05-17 03:05:02"><testcase name="Create a Bussiness Unit"/><testcase name="Create a meeting successfully"/></testsuite>
